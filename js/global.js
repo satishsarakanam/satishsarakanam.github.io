@@ -40,8 +40,8 @@ var tSkills = {
         'url': './images/skills/nodejs.png'
     },
     '4': {
-        'name': 'RxJS',
-        'url': './images/skills/rxjs.png'
+        'name': 'TanStack',
+        'url': './images/skills/tanstack.png'
     },
     '5': {
         'name': 'JavaScript',
